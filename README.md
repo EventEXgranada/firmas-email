@@ -11,9 +11,11 @@ Las firmas parten de una base que supongo que será de @jesusjmma y, actualmente
 Las pruebas no han sido muy exhaustivas, pero la firma en algunos sitios va bien :green_circle:, regulinchi :orange_circle: y mal :red_circle:. Esta es la lista:
 
 :green_circle: Webmail
+
 :green_circle: Thunderbird
 
 :orange_circle: Gmail web
+
 :orange_circle: Gmail móvil
 
 :red_circle: Canary Mail
@@ -59,11 +61,11 @@ Pues para webmail recomiendo solo copiar la parte de
 
 Y pegarla en el apartado de configuración de Webmail, en "Identidades", dándole al botón que hay más a la derecha que parece `< >`. Este botón es para editar la firma como HTML. Se abrirá una ventana donde hay que pegar el código copiado, sustituyendo todo lo que hubiera antes.
 
+![Captura de pantalla de la ventana de configuración de la cuenta de Webmail](img/webmail.png)
+
 **¿Por qué la recomendación de copiar solo esa parte de la firma HTML?**
 
 Simplemente porque pegando todo el contenido del archivo se pone un espacio en blanco al principio de la firma y es molesto eliminarlo manualmente.
-
-![Captura de pantalla de la ventana de configuración de la cuenta de Webmail](img/thunderbird.png)
 
 ## Ejemplos de firmas
 
