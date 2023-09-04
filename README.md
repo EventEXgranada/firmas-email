@@ -9,15 +9,15 @@ Las firmas parten de una base que supongo que será de @jesusjmma y, actualmente
 
 ## Clientes de correo soportados
 
-Las pruebas no han sido muy exhaustivas, pero la firma en algunos sitios va bien :green_circle:, regulinchi :orange_circle: y mal :red_circle:. Esta es la lista:
+Las pruebas no han sido muy exhaustivas, pero la firma en algunos sitios va bien :green_circle:, regulinchi :yellow_circle: y mal :red_circle:. Esta es la lista:
 
 :green_circle: Webmail
 
 :green_circle: Thunderbird
 
-:orange_circle: Gmail web
+:yellow_circle: Gmail web
 
-:orange_circle: Gmail móvil
+:yellow_circle: Gmail móvil
 
 :red_circle: Canary Mail
 
