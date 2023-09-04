@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   class="icon icon-tabler icon-tabler-brand-github"
+   width="256"
+   height="256"
+   viewBox="0 0 256 256"
+   stroke-width="2"
+   stroke="currentColor"
+   fill="none"
+   stroke-linecap="round"
+   stroke-linejoin="round"
+   version="1.1"
+   id="svg1887"
+   sodipodi:docname="GitHub.svg"
+   inkscape:version="1.2.2 (732a01da63, 2022-12-09)"
+   inkscape:export-filename="GitHub.png"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs1891" />
+  <sodipodi:namedview
+     id="namedview1889"
+     pagecolor="#505050"
+     bordercolor="#ffffff"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="1"
+     inkscape:deskcolor="#505050"
+     showgrid="false"
+     inkscape:zoom="2.0594424"
+     inkscape:cx="48.799617"
+     inkscape:cy="107.79617"
+     inkscape:window-width="3840"
+     inkscape:window-height="2054"
+     inkscape:window-x="2869"
+     inkscape:window-y="-11"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg1887" />
+  <circle
+     style="fill:#bb0000;fill-opacity:1;stroke:none;stroke-width:10;stroke-dasharray:none;stroke-opacity:1"
+     id="path3868"
+     cx="128"
+     cy="128"
+     r="128"
+     inkscape:export-filename="GitHub.png"
+     inkscape:export-xdpi="96"
+     inkscape:export-ydpi="96" />
+  <path
+     stroke="none"
+     d="M 0,0 H 24 V 24 H 0 Z"
+     fill="none"
+     id="path1883" />
+  <path
+     d="M 105.41225,190.8947 C 66.561334,203.54384 66.561334,168.30696 51.201668,163.78941 M 159.62284,208.9649 v -31.62284 c 0,-9.0351 0.90351,-12.64914 -4.51754,-18.07021 25.29826,-2.71051 49.69303,-12.64913 49.69303,-54.21058 A 41.56145,41.56145 0 0 0 193.0527,76.148959 37.94741,37.94741 0 0 0 192.14919,47.236648 c 0,0 -9.93861,-2.71053 -31.62284,11.745626 a 111.1317,111.1317 0 0 0 -56.01761,0 C 82.824509,44.526118 72.885902,47.236648 72.885902,47.236648 A 37.94741,37.94741 0 0 0 71.982393,76.148959 41.56145,41.56145 0 0 0 60.236765,105.06127 c 0,41.56145 24.394765,51.50007 49.693035,54.21058 -5.42106,5.42107 -5.42106,10.84213 -4.51755,18.07021 v 31.62284"
+     id="path1885"
+     style="fill:none;stroke:#ffffff;stroke-width:18.0702;stroke-opacity:1" />
+</svg>
