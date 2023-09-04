@@ -3,8 +3,9 @@
 Aquí se guardarán todas las firmas HTML que vaya haciendo para los correos electrónicos, principalmente para:
 - [Delegación de Estudiantes de la Facultad de Ciencias (DEFC)](https://defc.ugr.es)
 - [Delegación General de Estudiantes (DGE)](https://dge.ugr.es)
+- [Asociación de Estudiantes de Matemáticas y Estadística de la UGR](https://amatugr.es)
 
-Las firmas parten de una base que supongo que será de @jesusjmma y, actualmente, utilizan iconos de [Tabler Icons](https://tabler-icons.io/)
+Las firmas parten de una base que supongo que será de @jesusjmma y, actualmente, utilizan iconos de [Tabler Icons](https://tabler-icons.io)
 
 ## Clientes de correo soportados
 
@@ -90,3 +91,13 @@ Cuando los iconos cargan, la firma se debería de ver así:
 Y cuando no cargan, así:
 
 ![Firma de Iván Salido Cobo como Vicecoordinador Académico de la DGE en la que los iconos no cargan](img/dge-no-icons.png)
+
+### Ejemplo de firma de la DGE
+
+Cuando los iconos cargan, la firma se debería de ver así:
+
+![Firma de Iván Salido Cobo como Secretario de AMAT en la que los iconos cargan](img/amat.png)
+
+Y cuando no cargan, así:
+
+![Firma de Iván Salido Cobo como Secretario de AMAT en la que los iconos no cargan](img/amat-no-icons.png)
