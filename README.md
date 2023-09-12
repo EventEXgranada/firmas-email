@@ -25,7 +25,7 @@ Las pruebas no han sido muy exhaustivas, pero la firma en algunos sitios va bien
 
 Si alguien ha llegado hasta aquí es raro que no sepa usar las firmas, pero yo lo dejo por aquí por si acaso.
 
-> **ATENCIÓN:** Estas instrucciones se revisaron por última vez el 4 de septiembre de 2023, es posible que ya no sirvan *(sobre todo las de webmail)*.
+> **ATENCIÓN:** Estas instrucciones se revisaron por última vez el 13 de septiembre de 2023, es posible que ya no sirvan *(sobre todo las de webmail)*.
 
 ### En Thunderbird
 
