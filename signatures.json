@@ -1,0 +1,124 @@
+[
+  {
+    "id": "DEFC",
+    "output_path": "DEFC",
+    "main_font": "Montserrat",
+    "name_font": "Open Sans",
+    "name_image": "https://raw.githubusercontent.com/ComicIvans/mail-signatures/d4a3e97b3d5319a0f1dc568b55361c4e99eeff93/DEFC/img/DEFC.png",
+    "color": "#3EB1C8",
+    "organization": "Delegación de Estudiantes de la Facultad de Ciencias",
+    "organization_extra": "Universidad de Granada",
+    "phone": "958 241 561",
+    "phone_country_code": "+34",
+    "internal_phone": "(41561)",
+    "links": [
+      {
+        "url": "https://defc.ugr.es/",
+        "image": "https://raw.githubusercontent.com/ComicIvans/mail-signatures/396fd52b1336beaebf1b6b8357a794abb563843e/DEFC/img/Web.png",
+        "alt": "🌐"
+      },
+      {
+        "url": "https://instagram.com/defcUGR",
+        "image": "https://raw.githubusercontent.com/ComicIvans/mail-signatures/396fd52b1336beaebf1b6b8357a794abb563843e/DEFC/img/Instagram.png",
+        "alt": "📷"
+      },
+      {
+        "url": "https://twitter.com/defcUGR",
+        "image": "https://raw.githubusercontent.com/ComicIvans/mail-signatures/396fd52b1336beaebf1b6b8357a794abb563843e/DEFC/img/Twitter.png",
+        "alt": "🐦"
+      },
+      {
+        "url": "https://t.me/defcUGR",
+        "image": "https://raw.githubusercontent.com/ComicIvans/mail-signatures/396fd52b1336beaebf1b6b8357a794abb563843e/DEFC/img/Telegram.png",
+        "alt": "💬"
+      },
+      {
+        "url": "https://discord.com/invite/rRPSvVGWjz",
+        "image": "https://raw.githubusercontent.com/ComicIvans/mail-signatures/4796d7e3111e462a7783d7746f297c8634e44bec/DEFC/img/Discord.png",
+        "alt": "🎧"
+      },
+      {
+        "url": "https://github.com/defcUGR",
+        "image": "https://raw.githubusercontent.com/ComicIvans/mail-signatures/d0f6dafde7eb2bbcb21d6b8ffd350a72c51513a4/DEFC/img/GitHub.png",
+        "alt": "⌨️"
+      }
+    ]
+  },
+  {
+    "id": "DGE",
+    "output_path": "DGE",
+    "main_font": "Montserrat",
+    "name_font": "Open Sans",
+    "name_image": "https://raw.githubusercontent.com/ComicIvans/mail-signatures/511affdfe15360dd96e6765b4fd7dba6276ac599/DGE/img/DGE.png",
+    "color": "#00C389",
+    "organization": "Delegación General de Estudiantes",
+    "organization_extra": "Universidad de Granada",
+    "phone": "652 811 941",
+    "phone_country_code": "+34",
+    "links": [
+      {
+        "url": "https://dge.ugr.es/",
+        "image": "https://raw.githubusercontent.com/ComicIvans/mail-signatures/511affdfe15360dd96e6765b4fd7dba6276ac599/DGE/img/Web.png",
+        "alt": "🌐"
+      },
+      {
+        "url": "https://instagram.com/dgeUGR",
+        "image": "https://raw.githubusercontent.com/ComicIvans/mail-signatures/511affdfe15360dd96e6765b4fd7dba6276ac599/DGE/img/Instagram.png",
+        "alt": "📷"
+      },
+      {
+        "url": "https://twitter.com/dgeUGR",
+        "image": "https://raw.githubusercontent.com/ComicIvans/mail-signatures/511affdfe15360dd96e6765b4fd7dba6276ac599/DGE/img/Twitter.png",
+        "alt": "🐦"
+      },
+      {
+        "url": "https://t.me/dge_UGR",
+        "image": "https://raw.githubusercontent.com/ComicIvans/mail-signatures/511affdfe15360dd96e6765b4fd7dba6276ac599/DGE/img/Telegram.png",
+        "alt": "💬"
+      },
+      {
+        "url": "https://www.facebook.com/dgeUGR",
+        "image": "https://raw.githubusercontent.com/ComicIvans/mail-signatures/511affdfe15360dd96e6765b4fd7dba6276ac599/DGE/img/Facebook.png",
+        "alt": "f"
+      }
+    ]
+  },
+  {
+    "id": "AMAT",
+    "output_path": "AMAT",
+    "main_font": "Montserrat",
+    "name_font": "Open Sans",
+    "name_image": "https://raw.githubusercontent.com/ComicIvans/mail-signatures/de0e12d8397a6f3b9fb5c56b36e5a2f587d0af10/AMAT/img/AMAT.png",
+    "color": "#BB0000",
+    "organization": "Asociación de Estudiantes de Matemáticas y Estadística de la Universidad de Granada",
+    "opt_mail": "info@amatugr.es",
+    "max_width": 315,
+    "links": [
+      {
+        "url": "https://amatugr.es/",
+        "image": "https://raw.githubusercontent.com/ComicIvans/mail-signatures/de0e12d8397a6f3b9fb5c56b36e5a2f587d0af10/AMAT/img/Web.png",
+        "alt": "🌐"
+      },
+      {
+        "url": "https://instagram.com/amat.UGR",
+        "image": "https://raw.githubusercontent.com/ComicIvans/mail-signatures/de0e12d8397a6f3b9fb5c56b36e5a2f587d0af10/AMAT/img/Instagram.png",
+        "alt": "📷"
+      },
+      {
+        "url": "https://twitter.com/amatUGR",
+        "image": "https://raw.githubusercontent.com/ComicIvans/mail-signatures/de0e12d8397a6f3b9fb5c56b36e5a2f587d0af10/AMAT/img/Twitter.png",
+        "alt": "🐦"
+      },
+      {
+        "url": "https://www.youtube.com/@amatugr",
+        "image": "https://raw.githubusercontent.com/ComicIvans/mail-signatures/de0e12d8397a6f3b9fb5c56b36e5a2f587d0af10/AMAT/img/Youtube.png",
+        "alt": "🎞️"
+      },
+      {
+        "url": "https://t.me/AMATugr",
+        "image": "https://raw.githubusercontent.com/ComicIvans/mail-signatures/de0e12d8397a6f3b9fb5c56b36e5a2f587d0af10/AMAT/img/Telegram.png",
+        "alt": "💬"
+      }
+    ]
+  }
+]
