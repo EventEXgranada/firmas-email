@@ -85,28 +85,29 @@ def gen_signatures(config, signatures_list, template_path):
 
     sign_count = 0
     for i, row in enumerate(signatures_list):
-        for val in config:
-            if isinstance(config[val], str):
-                config[val] = config[val].strip()
+        local_config = config.copy()
+        for val in local_config:
+            if isinstance(local_config[val], str):
+                local_config[val] = local_config[val].strip()
         for col in cols:
             val = row[cols[col]]
             if isinstance(val, str):
                 val = val.strip()
                 if val == "None":
-                    config.pop(col, None)
+                    local_config.pop(col, None)
                 elif val != "":
-                    config[col] = val
+                    local_config[col] = val
 
             else:
                 if val is not None:
-                    config[col] = val
+                    local_config[col] = val
 
-        if "output" not in config or config["output"] == "":
-            config["output"] = f"signature{i}"
+        if "output" not in local_config or local_config["output"] == "":
+            local_config["output"] = f"signature{i}"
 
-        content = template.render(config)
+        content = template.render(local_config)
         with open(
-            config["output_path"] + "/" + config["output"] + ".html", "w"
+            local_config["output_path"] + "/" + local_config["output"] + ".html", "w"
         ) as file:
             file.write(content)
         sign_count += 1
