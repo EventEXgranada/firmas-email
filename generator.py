@@ -82,6 +82,8 @@ def gen_signatures(config, signatures_list, template_path):
     os.makedirs(config["output_path"], exist_ok=True)
 
     config["date"] = datetime.now().strftime("%Y-%m-%d")
+
+    sign_count = 0
     for i, row in enumerate(signatures_list):
         for val in config:
             if isinstance(config[val], str):
@@ -107,6 +109,8 @@ def gen_signatures(config, signatures_list, template_path):
             config["output_path"] + "/" + config["output"] + ".html", "w"
         ) as file:
             file.write(content)
+        sign_count += 1
+    print(f"Se han generado {sign_count} firmas.")
 
 
 def main():
