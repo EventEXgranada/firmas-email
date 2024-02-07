@@ -41,6 +41,11 @@
         "url": "https://github.com/defcUGR",
         "image": "https://raw.githubusercontent.com/ComicIvans/mail-signatures/d0f6dafde7eb2bbcb21d6b8ffd350a72c51513a4/DEFC/img/GitHub.png",
         "alt": "⌨️"
+      },
+      {
+        "url": "https://www.linkedin.com/company/defcugr",
+        "image": "https://raw.githubusercontent.com/ComicIvans/mail-signatures/1b68c92a2c8a8497ab717338e85d7d9a906216c9/DEFC/img/Linkedin.png",
+        "alt": "🎓"
       }
     ]
   },
@@ -80,6 +85,11 @@
         "url": "https://github.com/dgeUGR",
         "image": "https://raw.githubusercontent.com/ComicIvans/mail-signatures/500c2eddbd4d90650dbbf575e584e780844fb4cb/DGE/img/GitHub.png",
         "alt": "⌨️"
+      },
+      {
+        "url": "https://www.linkedin.com/company/delegación-general-de-estudiantes-ugr",
+        "image": "https://raw.githubusercontent.com/ComicIvans/mail-signatures/1b68c92a2c8a8497ab717338e85d7d9a906216c9/DGE/img/Linkedin.png",
+        "alt": "🎓"
       }
     ]
   },
@@ -118,6 +128,11 @@
         "url": "https://t.me/AMATugr",
         "image": "https://raw.githubusercontent.com/ComicIvans/mail-signatures/de0e12d8397a6f3b9fb5c56b36e5a2f587d0af10/AMAT/img/Telegram.png",
         "alt": "💬"
+      },
+      {
+        "url": "https://www.linkedin.com/company/amatugr",
+        "image": "https://raw.githubusercontent.com/ComicIvans/mail-signatures/1b68c92a2c8a8497ab717338e85d7d9a906216c9/AMAT/img/Linkedin.png",
+        "alt": "🎓"
       }
     ]
   }
