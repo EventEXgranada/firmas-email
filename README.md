@@ -48,7 +48,7 @@ Y cuando no cargan, así:
 
 ## Cómo usar las firmas
 
-> [!IMPORTANT]
+> [!IMPORTANT] Importante
 > Estas instrucciones se revisaron por última vez el 6 de febrero de 2024, es posible que ya no sirvan.
 
 ### En Thunderbird
